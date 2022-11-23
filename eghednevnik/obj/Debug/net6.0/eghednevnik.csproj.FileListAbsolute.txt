@@ -1,0 +1,15 @@
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\bin\Debug\net6.0\eghednevnik.exe
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\bin\Debug\net6.0\eghednevnik.deps.json
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\bin\Debug\net6.0\eghednevnik.runtimeconfig.json
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\bin\Debug\net6.0\eghednevnik.dll
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\bin\Debug\net6.0\eghednevnik.pdb
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\eghednevnik.csproj.AssemblyReference.cache
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\eghednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\eghednevnik.AssemblyInfoInputs.cache
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\eghednevnik.AssemblyInfo.cs
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\eghednevnik.csproj.CoreCompileInputs.cache
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\eghednevnik.dll
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\refint\eghednevnik.dll
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\eghednevnik.pdb
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\eghednevnik.genruntimeconfig.cache
+C:\Users\ilyxa\source\repos\eghednevnik\eghednevnik\obj\Debug\net6.0\ref\eghednevnik.dll
